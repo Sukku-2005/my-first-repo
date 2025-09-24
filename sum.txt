@@ -1,3 +1,4 @@
-let number1 = 10;
-let number2 = 5;
-let sum = number1 + number2;
+let number1 = 10
+let number2 = 5
+let number3 = 4
+let sum = number1 + number2 + number3
